@@ -1,0 +1,27 @@
+There are literally hundreds of functions, tools, and techniques built into Excel, but some of the most common Excel analysis tools you should know include:
+
+Basic
+
+Calculation Formulas: Sum, Count, Average
+Conditional Formulas:  IF, SUMIF, COUNTIF
+Sorting: Order columns by one or more criteria
+
+Intermediate
+
+Filters: Select and only see rows that meet one or more conditions.
+Formulas: VLOOKUP
+Charts: Plot data using various chart types
+
+Advanced
+
+Pivot tables: automatically group matching data to generate summary tables
+Pivot charts: automatically generated plots of data in a pivot table
+
+Use the links below in the Additional Resources section to find quick online tutorials about these key Excel tools. In less than an hour, you will learn the basic concepts and how to implement them in Excel.
+
+You will usually find that an analysis can be done in more than one way. For example, when working with the home mortgage dataset in your task below, how could you chart the answer to the question, “How many mortgage customers are in each borrower age range?” You have at least three options:
+
+Manually filter the data, manually count the number of rows for each filtered borrower age range, then chart those numbers using a new table of those values
+Use COUNTIF or SUMIF functions to calculate the number of mortgages that meet each borrower's age range criteria, then chart the numbers in that resulting table
+Use a pivot table and pivot chart to automatically group the summary data and plot the chart
+Which you choose will depend on how quickly you need the answer, how big your data set is, how often you need to generate an updated answer, and how adept you are at quickly using the advanced tools in Excel.
